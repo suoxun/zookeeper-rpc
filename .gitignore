@@ -2,3 +2,5 @@
 /rpc-client/rpc-client.iml
 /rpc-server/rpc-server.iml
 /zookeeper-rpc.iml
+/rpc-client/target/
+/rpc-server/target/
